@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" width="500" height="240" src="https://i.imgur.com/pTbjkCd.gif"> 
 
-<!--
-**livia-rios/livia-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, world! 🙌
+ 
+### I'm Lívia Rios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm a soon-to-be code gril from Belo Horizonte, Brazil. 👩🏻‍💻 🇧🇷
+
+I've just started learning how to code. 🤓
+
+You can also find me on:  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviariosmartins/)](https://www.linkedin.com/in/liviariosmartins/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:livia.riosmartins@gmail.com)](mailto:livia.riosmartins@gmail.com)
