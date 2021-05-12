@@ -5,7 +5,7 @@
  
 ### I'm Lívia Rios
 
- I'm a soon-to-be code gril from Belo Horizonte, Brazil. 👩🏻‍💻 🇧🇷
+ I'm a soon-to-be code girl from Belo Horizonte, Brazil. 👩🏻‍💻 🇧🇷
 
 I've just started learning how to code. 🤓
 
